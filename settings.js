@@ -38,18 +38,18 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "trur" // To remove bad word senders
+global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "true" // To remove group link sharing peoples
+global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94729922002']
 global.ownertag = '+94729922002' //your tag number
-global.botname = '𝗜 𝗔𝗠 𝗗𝗘𝗪- 𝘉𝘖𝘛' //ur bot name
+global.botname = '𝗜 𝗔𝗠 𝗗𝗘𝗪- 𝗕𝗢𝗧' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝗗𝗲𝗪" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
@@ -61,7 +61,7 @@ global.premium = ['+94729922002'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive dew)
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
